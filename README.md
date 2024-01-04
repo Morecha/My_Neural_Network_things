@@ -10,3 +10,6 @@ this repository is my own collection of Neural Network algorithm while I'm doing
 - LVQ (Linier Vector Quantization)
 - Backpropagation
 - Extreme Learning
+
+### PS:
+this repository not filled yet. files and folder are still being organized
